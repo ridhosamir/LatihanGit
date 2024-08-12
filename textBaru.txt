@@ -1,0 +1,8 @@
+Rencana pengembangan proyek di masa mendatang mencakup beberapa langkah penting untuk memastikan 
+proyek berjalan sesuai tujuan dan dapat diselesaikan tepat waktu dengan sumber daya yang tersedia. 
+Berikut ini adalah langkah-langkah yang biasanya diambil:
+- Identifikasi Tujuan Proyek: Menentukan tujuan utama proyek dan bagaimana pencapaiannya diukur. Tujuan harus spesifik, terukur, dapat dicapai, relevan, dan berbatas waktu (SMART).
+- Perencanaan dan Pembagian Tugas: Membuat rencana yang mencakup semua langkah yang diperlukan untuk menyelesaikan proyek, termasuk penugasan tanggung jawab kepada anggota tim dan penetapan milestone yang penting.
+- Manajemen Anggaran: Menghitung semua biaya yang diperlukan untuk menyelesaikan proyek dan memastikan bahwa anggaran tersedia sesuai kebutuhan.
+- Pengelolaan Risiko: Mengidentifikasi potensi risiko yang dapat menghambat kemajuan proyek dan menyiapkan rencana mitigasi untuk mengatasi risiko tersebut.
+- Pemantauan dan Evaluasi: Melakukan pemantauan terhadap perkembangan proyek secara berkala dan mengevaluasi apakah proyek berjalan sesuai rencana. Penyesuaian dilakukan jika terjadi deviasi dari rencana awal.
